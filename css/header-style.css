@@ -30,7 +30,7 @@ header a {
 
 .site-title {
     float: left;
-    padding: 12px 358px 0px 0px;
+    padding: 6px 358px 0px 0px;
     margin-left: 10px
 }
 
@@ -137,8 +137,13 @@ footer {
 #site-footer {
     width: 1200px;
     margin: 0 auto;
-    padding-top: 4px
 }
-.site-footer a{
+#site-footer a{
   text-decoration: none;
+}
+
+
+/* Site content */
+#site-frame{
+  height: 560px;
 }
